@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "Producer\Produc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer.BankCharger", "Consumer.BankCharger\Consumer.BankCharger.csproj", "{71AD0AEF-087C-4636-B082-EFAAF2C11E72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer.Tax", "..\Consumer.Tax\Consumer.Tax.csproj", "{FF4C0C3C-02AE-4A82-8459-E717B1A5E093}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer.Tax", "Consumer.Tax\Consumer.Tax.csproj", "{FF4C0C3C-02AE-4A82-8459-E717B1A5E093}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
